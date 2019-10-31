@@ -1,0 +1,231 @@
+.menuContents
+{
+	left: -45%;
+    position: relative;
+    margin-top: 4.5% !important;
+    display: inline-block;
+    float: left;
+    left: 0px;
+}
+.setngMenuContents
+{
+    left: -45%;
+    position: relative;
+    display: inline-block;
+    float: left;
+    left: 0px; 
+    margin-top: 4.5% !important;
+}
+.headrTextCls
+{
+	text-align: left;
+    width: 50%;
+    display: inline-block;
+}
+.logoutBtnCls
+{
+	float: right;
+}
+.headerDivCls
+{
+	top: 0;
+    width: 100%;
+    z-index: 9999999;
+    position: fixed;
+}
+.chartparentCls
+{
+	display: inline;
+    float: left;
+    margin-top: 5%;	
+    border : 1px solid lightgrey;
+    margin-left: 1%;
+}
+.curPoint
+{
+    cursor: pointer;
+    color: green;
+}
+.searchCustCls_CustCmp
+{
+    border: 1px solid lightgray ;
+    background: lightgray !important;
+    border-radius: 10px;
+    padding: 0.5%;
+    width: 100%;
+}
+.searchCustCls_CustCmp_Parent
+{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 12%;
+    width: 86%;
+    padding: 0.5%;
+    border: 1px solid lightgray;
+    margin-bottom: 2%;
+    background-color: white;
+}
+.ui.header>.icon
+{
+    font-size: 0.7em;
+}
+.ui.header > .icon + .content
+{
+    font-size: 1.41429rem !important;
+}
+.searchCustCls_CustCmp_Parent  .ui.action.input , .searchCustCls_CustCmp_Parent  .ui.icon
+{
+    float:left;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+.martop20Per
+{
+    margin-top: 20%;
+}
+.dataTables_wrapper
+{
+    margin-top: 2%;
+}
+.wid1per
+{
+    width: 1%;
+}
+.iptTableCls 
+{
+    display: block !important;
+}
+.selectAllCustTable
+{
+    background-image: none !important;
+}
+.custmer_CustmBtn_Prnt_Div
+{
+    float: left;
+    margin-left: 12%;
+    margin-bottom: auto;
+    position: inherit;
+    width: 86%;
+    padding: 0.5%;
+    border: 1px solid lightgray;
+    margin-bottom: 2%;
+    background-color: white;
+}
+.custmer_CustmBtn_Prnt_Div  .ui.action.input , .custmer_CustmBtn_Prnt_Div  .ui.icon
+{
+    float:left;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+.fltLft
+{
+    float: left;
+}
+.ui.page.modals.dimmer.transition.visible.active > .ui .header > .close
+{
+    color: red;
+    font-size: 20px;
+}
+.InfoErrCmpBtn  > .icon
+{
+    font-size: 0.5px;
+    width: 0px;
+}
+.InfoErrCmpBtn
+{
+    padding-right: 3% !important;
+}
+.ui.page.modals.dimmer.transition.visible.active > .ui .header > .info
+{
+    color: blue;
+    font-size: 25px;
+}
+.addCustCmpCls
+{
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.modalHeadCls
+{
+    background: lightgray !important;
+    border-radius: 10px;
+    padding: 1% !important;
+    width: 98%;
+    margin-left: 1% !important;
+}
+.ui.page.modals.dimmer.transition.visible.active > .ui .header > .question
+{
+    color: blue;
+    font-size: 20px;
+}
+.dispFlex
+{
+    display: inline-flex;
+}
+.fltLft > span >button
+{
+    cursor: pointer;
+    display: inline-block;
+    min-height: 1em;
+    outline: 0;
+    border: none;
+    vertical-align: baseline;
+    background: #e0e1e2 none;
+    color: rgba(0,0,0,.6);
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    margin: 0 .25em 0 0;
+    padding: .78571429em 1.5em .78571429em;
+    text-transform: none;
+    text-shadow: none;
+    font-weight: 700;
+    line-height: 1em;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    border-radius: .28571429rem;
+    -webkit-box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34,36,38,.15) inset;
+    box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34,36,38,.15) inset;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: opacity .1s ease,background-color .1s ease,color .1s ease,background .1s ease,-webkit-box-shadow .1s ease;
+    transition: opacity .1s ease,background-color .1s ease,color .1s ease,background .1s ease,-webkit-box-shadow .1s ease;
+    transition: opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease;
+    transition: opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease,-webkit-box-shadow .1s ease;
+    will-change: '';
+    -webkit-tap-highlight-color: transparent;
+}
+.uploadCustCmpCls
+{
+    margin-top: 8%;
+    float: left;
+    width: 71%;
+    border: 1px solid lightgray;
+    margin-left: 5%;
+}
+.container.spreadsheet {
+    width: 100% !important;
+    height: 400px !important;
+    border: 1px solid lightgray !important;
+    padding-right: 0;
+    padding-left: 0;
+}
+.dispnone
+{
+    display: none !important;
+}
+.brd1pxGrey
+{
+    border: 1px solid lightgray !important;
+}
+.pad2Per{
+    padding: 2%;
+}
+.setEditDivCmp
+{
+    float: left;
+    margin-top: 7%;
+    margin-left: 3%;
+}

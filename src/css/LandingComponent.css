@@ -1,0 +1,38 @@
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) { 
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.TermsCondLblCls:before
+{
+  display: none;
+}
+.TermsCondLblCls:after
+{
+  display: none;
+}
+.chkBxShw
+{
+  display: block !important;
+  opacity: 1 !important;
+      margin-left: 5%;
+    margin-top: 3%;
+}
+.alignChartsCls
+{
+  display: inline-flex;
+}

@@ -1,0 +1,124 @@
+{
+  "Sheets": [
+    {
+      "name": "Customer Bulk Upload",
+      "id": "custName",
+      "columnLength": 15,
+      "columnName": [
+        {
+          "label": "Customer Name",
+          "value": "custName"
+        },
+        {
+          "label": "Contact Person",
+          "value": "contactPerson"
+        },
+        {
+          "label": "Address Line 1",
+          "value": "addrLine1"
+        },
+        {
+          "label": "Address Line 2",
+          "value": "addrLine2"
+        },
+        {
+          "label": "Contact Number",
+          "value": "contactNum"
+        },
+        {
+          "label": "Landmark",
+          "value": "landmark"
+        },
+        {
+          "label": "Country",
+          "value": "country"
+        },
+        {
+          "label": "State",
+          "value": "state"
+        },
+        {
+          "label": "City",
+          "value": "city"
+        },
+        {
+          "label": "Company Type",
+          "value": "companyType"
+        },
+        {
+          "label": "Pincode",
+          "value": "pincode"
+        },
+        {
+          "label": "Fax Number",
+          "value": "faxNum"
+        },
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Email Id",
+          "value": "emailId"
+        },
+        {
+          "label": "GST IN/PAN",
+          "value": "gst_pan"
+        }
+      ],
+      "dataSetValue": [
+        {
+          "custName": "Mark",
+          "contactPerson": "Steve",
+          "addrLine1": "#45, 1st Main road",
+          "addrLine2": "B.T.M, Madiwala, Bangalore",
+          "contactNum": "9900234455",
+          "landmark": "Near Choice Bakery",
+          "country": "India",
+          "state": "Karnataka",
+          "city": "Bangalore",
+          "companyType": "Customer",
+          "pincode": "560034",
+          "faxNum": "080-23466665",
+          "website": "www.testdata.com",
+          "emailId": "mendis@react.com",
+          "gst_pan": "BHTPA6543M"
+        },
+        {
+          "custName": "Smith",
+          "contactPerson": "Mark",
+          "addrLine1": "#23, 1st Cross road",
+          "addrLine2": "Malad, Mumbai",
+          "contactNum": "9896543567",
+          "landmark": "Near Shawarma Box",
+          "country": "India",
+          "state": "Maharastra",
+          "city": "Mumbai",
+          "companyType": "Customer",
+          "pincode": "678987",
+          "faxNum": "022-22342322",
+          "website": "www.datacheck.com",
+          "emailId": "menon@mendis.com",
+          "gst_pan": "BHTPA7654M"
+        },
+        {
+          "custName": "Aravind",
+          "contactPerson": "Rajesh",
+          "addrLine1": "#22, J.T.S Road",
+          "addrLine2": "Kodungallur",
+          "contactNum": "9988765432",
+          "landmark": "Near Boys School",
+          "country": "India",
+          "state": "Kerala",
+          "city": "Thrissur",
+          "companyType": "Customer",
+          "pincode": "680664",
+          "faxNum": "0480-76234867",
+          "website": "www.kodungallur.com",
+          "emailId": "mendis@kodungallur.com",
+          "gst_pan": "BHTPA2343M"
+        }
+      ]
+    }
+  ]
+}

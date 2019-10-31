@@ -1,0 +1,74 @@
+.summaryBlockCls
+{
+	width: 48.5% !important;
+    display: inline-block;
+    float: left;
+    margin-top: 5% !important;
+    margin-left: 1% !important;
+    background: white !important;
+}
+.invoiceBlockCls
+{
+	width: 100% !important;
+	display: inline-block;
+    float: left;
+    margin-top: 5% !important;
+    margin-left: 1% !important;
+    background: white !important;
+}
+.parentsummaryBlockCls
+{
+	display: inline-block;
+    width: 85%;
+    margin-top: 3%;
+}
+.fntStyleCountCls
+{
+	color: black;
+	font-weight: 800;
+}
+.reduceOpacity
+{
+	opacity: 0.35 !important;
+}
+.blckHeaderDivCls {
+    background: lightgray;
+    border: 1px solid gray;
+    margin-bottom: 5%;
+    border-radius: 9px;
+    width: 99%;
+    z-index: 99995;
+}
+.TblDashHeaderDivCls
+{
+    background: lightgray;
+    border: 1px solid gray;
+    margin-bottom: 3%;
+    border-radius: 9px;
+    width: 100%;
+    z-index: 99995;
+}
+p.blckHeaderCls {
+    float: none;
+    font-size: x-large;
+}
+.TableContentCls
+{ 
+    background: white;
+    border: 1px solid lightgray;
+    margin-left: 1%;
+    margin-top: 4%;
+    width: 97%;
+}
+.OrgTblContentCls
+{
+    background: white;
+    border: 1px solid lightgray;
+    margin-left: 13%;
+    margin-top: 4%;
+    width: 85%;
+}
+.OrgTblContentCls .pagination-bottom
+{
+    display: none;
+}

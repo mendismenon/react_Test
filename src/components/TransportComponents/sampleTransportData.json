@@ -1,0 +1,103 @@
+{
+  "Sheets": [
+    {
+      "name": "Transport Bulk Upload",
+      "id": "transName",
+      "columnLength": 12,
+      "columnName": [
+        {
+          "label": "Transport Name",
+          "value": "transName"
+        },
+        {
+          "label": "Transport ID",
+          "value": "transId"
+        },
+        {
+          "label": "Address Line 1",
+          "value": "addrLine1"
+        },
+        {
+          "label": "Address Line 2",
+          "value": "addrLine2"
+        },
+        {
+          "label": "Contact Number",
+          "value": "contactNum"
+        },
+        {
+          "label": "Landmark",
+          "value": "landmark"
+        },
+        {
+          "label": "Country",
+          "value": "country"
+        },
+        {
+          "label": "State",
+          "value": "state"
+        },
+        {
+          "label": "City",
+          "value": "city"
+        },
+        {
+          "label": "Vehicle Type",
+          "value": "vehicleType"
+        },
+        {
+          "label": "Pincode",
+          "value": "pincode"
+        },
+        {
+          "label": "Vehicle Number",
+          "value": "vehicleNum"
+        }
+      ],
+      "dataSetValue": [
+        {
+          "transName": "Himalaya Roadlines",
+          "transId": "THR9293498",
+          "addrLine1": "#45, 1st Main road",
+          "addrLine2": "B.T.M, Madiwala, Bangalore",
+          "contactNum": "9900234455",
+          "landmark": "Near Choice Bakery",
+          "country": "India",
+          "state": "Karnataka",
+          "city": "Bangalore",
+          "vehicleType": "Heavy Vehicle",
+          "pincode": "560034",
+          "vehicleNum": "KA 51 EW 2725"
+        },
+        {
+          "transName": "Shiv Transport",
+          "transId": "TST6752347",
+          "addrLine1": "#54, 3rd Main road",
+          "addrLine2": "Malad, Mumbai",
+          "contactNum": "9900125544",
+          "landmark": "Near Choice Hotel",
+          "country": "India",
+          "state": "Maharastra",
+          "city": "Mumbai",
+          "vehicleType": "Heavy Vehicle",
+          "pincode": "698765",
+          "vehicleNum": "MH 01 RT 6543"
+        },
+        {
+          "transName": "Kerala Travels",
+          "transId": "TKT87234",
+          "addrLine1": "#12, 3rd Main road",
+          "addrLine2": "Kodungallur, Thrissur",
+          "contactNum": "9125334455",
+          "landmark": "Near J.T.S School",
+          "country": "India",
+          "state": "Kerala",
+          "city": "Thrissur",
+          "vehicleType": "Travel Vehicle",
+          "pincode": "680664",
+          "vehicleNum": "KL 47 AN 007"
+        }
+      ]
+    }
+  ]
+}
